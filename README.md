@@ -13,7 +13,7 @@ The app is built with the Clean Architecture and Model-View-ViewModel (MVVM) pat
 <img src="project/home_ui.png" width="250" alt=""/>
 
 ### Demo
-<img src="project/cop_record.webm" width="250" alt=""/>
+<img src="project/cop_record.gif" width="250" alt=""/>
 
 ## Tech Stack.
 - [Kotlin](https://developer.android.com/kotlin) - Kotlin is a programming language that can run on JVM. Google has announced Kotlin as one of its officially supported programming languages in Android Studio; and the Android community is migrating at a pace from Java to Kotlin
